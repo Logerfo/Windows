@@ -47,3 +47,6 @@
 
 ## Crycker
 - https://github.com/davidvidmar/Crycker/releases
+
+## Instant Eyedropper
+- http://instant-eyedropper.com/
