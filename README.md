@@ -15,6 +15,9 @@
 ## 7+ Taskbar Tweaker
 - https://rammichael.com/7-taskbar-tweaker
 
+## Shortcuts
+- https://winaero.com/blog/change-hotkeys-switch-keyboard-layout-windows-10/
+
 # Theming
 ## Ultra UX Theme Patcher
 - https://www.syssel.net/hoefs/software_uxtheme.php?lang=en
