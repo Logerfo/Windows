@@ -8,6 +8,9 @@
 ## Edge Reflector
 - https://github.com/da2x/EdgeDeflector/releases
 
+## Disable Edge Pre-Load
+- https://www.wisecleaner.com/how-to/140-how-to-disable-microsoft-edge-pre-launching-in-windows-10.html
+
 ## Auto Hotkey
 - https://www.autohotkey.com/download/ahk-install.exe
 - https://gist.github.com/Logerfo/45d0009ad12f7ccd9015713cc9a60bb9
