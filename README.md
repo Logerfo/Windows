@@ -4,6 +4,12 @@
 
 ## Git
 - https://git-scm.com/download/win
+```sh
+git config --global merge.tool vscode
+git config --global mergetool.vscode.cmd 'code --wait $MERGED'
+git config --global diff.tool vscode
+git config --global difftool.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
+```
 
 ## Edge Reflector
 - https://github.com/da2x/EdgeDeflector/releases
