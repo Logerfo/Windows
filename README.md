@@ -12,7 +12,8 @@ git config --global difftool.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
 ```
 
 ## Edge Reflector
-- https://github.com/da2x/EdgeDeflector/releases
+- ~~https://github.com/da2x/EdgeDeflector/releases~~
+- https://github.com/rcmaehl/MSEdgeRedirect
 
 ## Disable Edge Pre-Load
 - https://www.wisecleaner.com/how-to/140-how-to-disable-microsoft-edge-pre-launching-in-windows-10.html
