@@ -17,7 +17,7 @@ git config --global difftool.vscode.cmd 'code --wait --diff $LOCAL $REMOTE'
 ## Oh-My-Posh
 ```sh
 winget install JanDeDobbeleer.OhMyPosh -s winget
-```c
+```
 - https://gist.github.com/Logerfo/78539902addeb12e40e4f031cae35172
 
 ## Edge Reflector
